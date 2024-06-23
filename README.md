@@ -1,2 +1,2 @@
-# Prodigy_WD_03
-This is my task 3 at Prodigy_Infotech
+# Prodigy_WD_02
+This is my task 2 at Prodigy_Infotech
